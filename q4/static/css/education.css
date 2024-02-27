@@ -1,0 +1,67 @@
+.header-row {
+    display: flex; 
+    justify-content: center; 
+    margin-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .ndcrest {
+    margin-right: 10px; 
+    height: 100px; 
+    width: 100px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(234, 224, 224, 0.19);
+    border-radius: 50%;
+
+  }
+  .ndlogo{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+  }
+
+  .eaicon{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    object-fit: cover;
+  }
+  .education-title{
+    font-size: 3rem;
+    font-weight: bold;
+    color: #0c2340;
+  }
+  .education-title-container{
+    margin-top: 3vh;  
+    text-align: center;
+  }
+  .education-header {
+    margin-top: 25px; 
+    font-weight: bold; 
+    font-size: 2rem;
+    align-items: center;
+    color: #0c2340;
+  }
+.align-logo{
+    margin-top: 5vh;
+}
+
+.time{
+  font-size: 1rem;
+  margin-top: 25px;
+}
+
+.degree{
+  color: rgb(64, 104, 142);
+}
+.GPA{
+  font-size: 1rem;
+}
+
+
+.class-list{
+  text-align: left;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
